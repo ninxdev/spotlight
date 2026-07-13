@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="Screenshot From 2026-07-13 19-49-18" src="https://github.com/user-attachments/assets/0237281b-a5f1-4c41-96aa-aee1e73a56dd" /># Spotlight v1.0
+# Spotlight v1.0
 
 A compact macOS Spotlight inspired launcher for GNOME Shell 50.
 
