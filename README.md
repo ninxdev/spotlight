@@ -1,8 +1,18 @@
-# Spotlight v1.0
+<img width="1366" height="768" alt="Screenshot From 2026-07-13 19-49-18" src="https://github.com/user-attachments/assets/0237281b-a5f1-4c41-96aa-aee1e73a56dd" /># Spotlight v1.0
 
 A compact macOS Spotlight inspired launcher for GNOME Shell 50.
 
 ## Default shortcut: **Ctrl + Space**
+
+
+<img width="1366" height="768" alt="Screenshot From 2026-07-13 19-48-36" src="https://github.com/user-attachments/assets/b7e711ea-6ae4-4191-916b-35156b3424a7" />
+<img width="1366" height="768" alt="Screenshot From 2026-07-13 19-49-18" src="https://github.com/user-attachments/assets/a4146b9c-6bb4-4850-8c6b-795f432088d0" />
+<img width="1366" height="768" alt="Screenshot From 2026-07-13 19-50-00" src="https://github.com/user-attachments/assets/6e24aa93-5e4e-42c1-b986-2d0f12ff55a1" />
+<img width="1366" height="768" alt="Screenshot From 2026-07-13 19-50-23" src="https://github.com/user-attachments/assets/b1a6fb2c-bae2-4db6-b64f-0e451497ba61" />
+
+
+
+
 
 ## What it does (in priority order)
 
