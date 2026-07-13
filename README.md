@@ -53,7 +53,7 @@ unzip spotlight@ninx.zip -d spotlight@ninx
 # 2. Move to extensions dir
 mkdir -p ~/.local/share/gnome-shell/extensions/
 mv spotlight@ninx ~/.local/share/gnome-shell/extensions/
-or
+# or
 # Need gnome extension manager to be installed
 # gnome-extensions install ~/Downloads/spotlight@ninx.zip
 
