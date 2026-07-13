@@ -6,6 +6,16 @@ A compact macOS Spotlight inspired launcher for GNOME Shell 50.
 
 ## Default shortcut: **Ctrl + Space**
 
+
+<img width="1366" height="768" alt="Screenshot From 2026-07-13 19-48-36" src="https://github.com/user-attachments/assets/73934211-7584-4c00-a5b2-27dd88a6235b" />
+<img width="1366" height="768" alt="Screenshot From 2026-07-13 19-49-18" src="https://github.com/user-attachments/assets/dde58067-3945-4b8e-ad26-89c13d60cb6b" />
+<img width="1366" height="768" alt="Screenshot From 2026-07-13 19-50-00" src="https://github.com/user-attachments/assets/7529d643-d96b-4382-9d0e-085f35d90ccb" />
+<img width="1366" height="768" alt="Screenshot From 2026-07-13 19-50-23" src="https://github.com/user-attachments/assets/53ed78a5-d143-4cac-9438-fa5175c34d00" />
+
+
+
+
+
 ## What it does (in priority order)
 
 1. **Apps** — the main feature. Type an app name, press Enter to launch.
