@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <enum id="org.gnome.shell.extensions.spotlight.search-engine">
+    <value nick="google" value="0"/>
+    <value nick="duckduckgo" value="1"/>
+    <value nick="brave" value="2"/>
+    <value nick="bing" value="3"/>
+    <value nick="startpage" value="4"/>
+  </enum>
+
+  <schema id="org.gnome.shell.extensions.spotlight" path="/org/gnome/shell/extensions/spotlight/">
+    <!-- Default is Ctrl+Space (Super+Space has timing issues on some GNOME 50 setups) -->
+    <key name="toggle-shortcut" type="as">
+      <default>['&lt;Control&gt;space']</default>
+      <summary>Toggle shortcut</summary>
+      <description>Keyboard shortcut to open Spotlight. Default is Ctrl+Space.</description>
+    </key>
+
+    <key name="popup-width" type="i">
+      <default>600</default>
+      <range min="400" max="1200"/>
+      <summary>Popup width</summary>
+      <description>Width of the Spotlight popup in pixels.</description>
+    </key>
+
+    <key name="max-results" type="i">
+      <default>6</default>
+      <range min="1" max="20"/>
+      <summary>Maximum results per category</summary>
+      <description>Maximum results displayed per category.</description>
+    </key>
+
+    <key name="web-search-engine" enum="org.gnome.shell.extensions.spotlight.search-engine">
+      <default>'google'</default>
+      <summary>Web search engine</summary>
+      <description>Search engine used for the web search fallback.</description>
+    </key>
+
+    <key name="show-web-search" type="b">
+      <default>true</default>
+      <summary>Show web search fallback</summary>
+      <description>If true, a web search result is shown when no apps or settings match.</description>
+    </key>
+  </schema>
+</schemalist>
