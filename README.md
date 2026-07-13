@@ -41,16 +41,13 @@ A compact macOS Spotlight inspired launcher for GNOME Shell 50.
 cd ~/Downloads
 unzip spotlight@ninx.zip -d spotlight@ninx
 
-# 2. Move to extensions dir
-mkdir -p ~/.local/share/gnome-shell/extensions/
-mv spotlight@ninx ~/.local/share/gnome-shell/extensions/
+# 2. Install and Enable
+gnome-extensions install ~/Downloads/spotlight@ninx.zip
+gnome-extensions enable spotlight@ninx
 
 # 3. Log out and log back in (Wayland restart)
 
-# 4. Enable
-gnome-extensions enable spotlight@ninx
-
-# 5. Press Ctrl+Space
+# 4. Press Ctrl+Space
 ```
 
 ## How to use
